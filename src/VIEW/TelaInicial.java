@@ -3,7 +3,7 @@ package VIEW;
 import java.awt.Color;
 
 /**
- * @author igorh
+ * @author igorhh
  */
 public class TelaInicial extends javax.swing.JFrame {
 
